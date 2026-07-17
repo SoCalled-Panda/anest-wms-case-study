@@ -22,11 +22,9 @@ Deployed within a hardened Linux VPS environment via Docker containers, utilizin
 
 ## 📸 Production Showcase
 
-| | |
-|:---:|:---:|
-| ![Dashboard](https://github.com/user-attachments/assets/505d91c6-725c-4493-abfa-31f605f3a0b3) | ![Warehouses](https://github.com/user-attachments/assets/3396791d-8f74-4cb8-a3d2-420d56fccc2b) |
-| ![Transfers](https://github.com/user-attachments/assets/51d426f3-5192-4dfd-8038-dbbfd5ddfa12) | ![Settings](https://github.com/user-attachments/assets/PLACEHOLDER_4TH_IMAGE) |
-
+| | | | |
+|:---:|:---:|:---:|:---:|
+| <img width="260" height="564" alt="Dashboard" src="https://github.com/user-attachments/assets/c5b92be3-d4e4-4371-b50a-6afede1b1e6b" /> | <img width="260" height="566" alt="Warehouses" src="https://github.com/user-attachments/assets/0590cb17-ba52-497b-b1f9-b700ca2eab7e" /> | <img width="260" height="562" alt="Transfers" src="https://github.com/user-attachments/assets/a9e692fc-e8fe-4835-94cb-1317276b28f6" /> | <img width="260" height="564" alt="Settings" src="https://github.com/user-attachments/assets/2fa43ef6-677f-4a7c-8d1b-5253dc5dd3ba" /> |
 ---
 
 ## 🚀 The Business Problem vs. The Engineering Solution
